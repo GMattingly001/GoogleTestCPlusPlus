@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231107-2112-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.27.7"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="Georges-MacBook-Air.local"
+	OSRelease="11.5.2"
+	OSVersion="20G95"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="4096"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1600"
+	>
+	<Testing>
+		<StartDateTime>Nov 07 17:54 EST</StartDateTime>
+		<StartTestTime>1699397681</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 07 17:54 EST</EndDateTime>
+		<EndTestTime>1699397681</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
