@@ -18,31 +18,25 @@
 	ProcessorCacheSize="32768"
 	NumberOfLogicalCPU="4"
 	NumberOfPhysicalCPU="2"
-	TotalVirtualMemory="2048"
+	TotalVirtualMemory="3072"
 	TotalPhysicalMemory="4096"
 	LogicalProcessorsPerPhysical="8"
 	ProcessorClockFrequency="1600"
 	>
 	<Testing>
-		<StartDateTime>Nov 09 16:59 EST</StartDateTime>
-		<StartTestTime>1699567145</StartTestTime>
+		<StartDateTime>Nov 09 17:06 EST</StartDateTime>
+		<StartTestTime>1699567606</StartTestTime>
 		<TestList>
 			<Test>./test/ExampleTests</Test>
 		</TestList>
-		<Test Status="failed">
+		<Test Status="passed">
 			<Name>ExampleTests</Name>
 			<Path>./test</Path>
 			<FullName>./test/ExampleTests</FullName>
 			<FullCommandLine>/Users/georgemattingly/Desktop/SeniorThesis/GoogleTestCPlusPlus/build/test/ExampleTests</FullCommandLine>
 			<Results>
-				<NamedMeasurement type="text/string" name="Exit Code">
-					<Value>Failed</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Exit Value">
-					<Value>1</Value>
-				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.442297</Value>
+					<Value>0.406968</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -57,12 +51,12 @@
 					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
 				</NamedMeasurement>
 				<Measurement>
-					<Value encoding="base64" compression="gzip">eJylUU1LAzEQvedXzNGC3VTwtOCh2G0RVEp366UUSbfTNZhNlszE1n/vftTSFYSKA4HJzJuP92YRrNW2gFJpezWAnXclyCWhJ1mg8wWWirkGmE85QXpnV8kUrXY+e0PSJGfOFQYzJL6fm0DNk0Ub4zp27pLPZdF4r82sKM/F6u5ka1gcF7mBBtMtcvQpaMZIrIYnW8PMuI0yXR7th/bOlmhrLPIwVD/A5z2TgyqrbmMSK1gsn6G1dS8TTbB0ltgrxlkTeVK5dyT+K02rRG9QXlXxbQxTpU3wKF6UCQhuF8NOGUIBMM45KPP9Tw4V5ozbGNgHFDUDmI4fHpPJhQzgagQlDS7TpwMDO1ZmIC47AKPyw63b2/55fzsreGWj/pya0nycph2lUYulqE+063ANRlOtBWzQuH38Zy2EqBsdK7IkzcQXSowD7Q==</Value>
+					<Value encoding="base64" compression="gzip">eJyNUE1LxDAQvfdXzHF7aKM/wIPYpQdRl3b3VIrEOsZgkinJ1I9/b7NZlq0g9EFgePMm8+Y1k3PaKbBSu00Ob54siENAH4RC8gqtZJ4F5kdUGD6YRtGi0+T37xh0EDWRMrjHwHc7M4X4hDpyPHOXZfCDULF6jrvKYci6mzN6aE5GriFqkpFTHSbNWGZdcUYPtaEXaVIf3af25Cy6WYtcTOMf8eWf229px+Q4ZB00h0c4ol90ygotucBeMtaReZCDpziQ8HS/bgA2V2BDvs5OEgMTS5Nn6+5llL54pS+3TPO/FMFLVy73zCftbtt2W8UMkrbMfgE3Uq+y====</Value>
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Nov 09 16:59 EST</EndDateTime>
-		<EndTestTime>1699567146</EndTestTime>
+		<EndDateTime>Nov 09 17:06 EST</EndDateTime>
+		<EndTestTime>1699567606</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
